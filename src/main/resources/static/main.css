@@ -21,3 +21,8 @@ body, html, .main-container-screen, .sub-container-screen {
     position: absolute;
     bottom: 0;
 }
+
+.profile-picture {
+    height: 2.5rem;
+    width: 2.5rem;
+}
